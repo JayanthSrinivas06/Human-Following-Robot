@@ -53,6 +53,7 @@ Movement Logic: Moves forward, stops, or turns based on the distance readings fr
 
 | Name             | GitHub Profile                                |
 |------------------|-----------------------------------------------|
+| Jayanth Srinivas B | [GitHub profile](https://github.com/JayanthSrinivas06) |
 | Rakesh Y         | [GitHub profile](https://github.com/Y-Rakesh) |
 | Lalith V         | [GitHub profile](https://github.com/lalith17) |
 | Sarvan Dattu P   | [GitHub profile](https://github.com/Sarvan05) |
